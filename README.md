@@ -63,3 +63,8 @@ data/
 
 ## License
 MIT License
+
+<img width="1440" height="863" alt="Sample result for None" src="https://github.com/user-attachments/assets/732c4c4f-6124-4777-a769-ec810fb8ca42" />
+<img width="1014" height="648" alt="Sample result for thumbsUp" src="https://github.com/user-attachments/assets/3b49f22a-869e-42eb-9c8a-ec17a4cc9285" />
+
+
